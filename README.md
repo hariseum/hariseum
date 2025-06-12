@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @hariseum
-- 👀 I’m interested in Web Development🧑🏻‍💻 Youtube▶️ Self-Improvement☯️ Astronomy🔭 & Football⚽️
+- 👋 Hi, I’m Haris
+- 👀 I’m interested in Web Development🧑🏻‍💻 Content Creation▶️ & Football⚽️
 - 🌱 I’m currently working in ReactJS⚛️ & NextJS⏭️
 - 💞️ I’m looking to collaborate on exciting projects🧑🏻‍💻
 - 📫 How to reach me - ✉️: hariseum@gmail.com
